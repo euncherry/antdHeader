@@ -1,8 +1,8 @@
 //Redux
 import React, { useState } from 'react'
 import { Button, Divider, Row, Col } from 'antd';
-import SignIn from '../../containers/Account/SignIn'
-import SignUp from "../../containers/Account/SignUp"
+import SignIn from '../../containers/account/SignIn'
+import SignUp from "../../containers/account/SignUp"
 
 
 /**
